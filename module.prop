@@ -1,0 +1,6 @@
+id=com_arabinda_me_green_dot_disable
+name=Disable green dot indicator
+version=v1.0
+versionCode=1
+author=Arabinda
+description=Disable green dot indicator for Location, Camera and Microphone
